@@ -1,10 +1,10 @@
 package main
 
-import(
+import (
 	"fmt"
 )
 
-func main(){
+func main() {
 	fmt.Println("program started")
 	fmt.Println("some work in progress")
 	fmt.Println("final finish")
