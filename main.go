@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("program started")
-	fmt.Println("some work in progress")
-	fmt.Println("final finish")
+	fmt.Println("programm started")
+	fmt.Println("no other issues found")
+	fmt.Println("programm finished")
 }
