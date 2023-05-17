@@ -2,3 +2,7 @@
 "test": "go",
 "run": "full"
 }
+{
+"new test": "fire",
+"stop": "nice"
+}
